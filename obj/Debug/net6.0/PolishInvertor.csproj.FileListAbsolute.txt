@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\bin\Debug\net6.0\PolishInvertor.deps.json
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\bin\Debug\net6.0\PolishInvertor.dll
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\bin\Debug\net6.0\PolishInvertor.pdb
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\PolishInvertor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\PolishInvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\PolishInvertor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\PolishInvertor.AssemblyInfo.cs
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\PolishInvertor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\PolishInvertor.dll
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\refint\PolishInvertor.dll
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\PolishInvertor.pdb
+C:\Users\admin\source\repos\PolishInvertor\PolishInvertor\obj\Debug\net6.0\ref\PolishInvertor.dll
